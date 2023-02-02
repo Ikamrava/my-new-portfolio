@@ -121,32 +121,32 @@ const Navbar = () => {
           <div className='py-4 flex flex-col justify-between'>
             <ul className='uppercase'>
               <Link href='/'>
-                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold ease-in duration-300'>
                   Home
                 </li>
               </Link>
               <Link href='/#about'>
-                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold ease-in duration-300'>
                   About
                 </li>
               </Link>
               <Link href='/#skills'>
-                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold ease-in duration-300'>
                   Skills
                 </li>
               </Link>
               <Link href='/#projects'>
-                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold ease-in duration-300'>
                   Projects
                 </li>
               </Link>
               <Link href='/resume'>
-                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold ease-in duration-300'>
                   Resume
                 </li>
               </Link>
               <Link href='/#contact'>
-                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold'>
+                <li onClick={() => setNav(false)} className='py-4 text-sm text-[#5E17EB] font-bold ease-in duration-300'>
                   Contact
                 </li>
               </Link>
