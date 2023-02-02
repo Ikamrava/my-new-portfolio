@@ -54,13 +54,13 @@ const Navbar = () => {
           : 'fixed w-full h-20 z-[100]'
       }
     >
-      <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16'>
+      <div className='flex justify-between items-center w-full h-full px-4 2xl:px-16'>
         <Link href='/'>
       
             <Image
               src={NavLogo}
               alt='/'
-              width='125'
+              width='90'
               height='50'
               className='cursor-pointer'
             />
@@ -87,7 +87,7 @@ const Navbar = () => {
               <Link href='/#contact'>Contact</Link>
             </li>
           </ul>
-          {/* Hamburger Icon */}
+          
           <div
             style={{ color: `${linkColor}` }}
             onClick={handleNav}
@@ -98,21 +98,15 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* Mobile Menu */}
-      {/* Overlay */}
+
       <div
-        className={
-          nav ? 'md:hidden fixed left-0 top-0 w-full h-screen bg-black/70' : ''
-        }
-      >
-        {/* Side Drawer Menu */}
+        className={nav ? 'md:hidden fixed left-0 top-0 w-full h-screen bg-black/70' : ''}>
+        
         <div
           className={
             nav
               ? ' fixed left-0 top-0 w-[75%] sm:w-[60%] md:w-[45%] h-screen bg-[#ecf0f3] p-10 ease-in duration-500'
-              : 'fixed left-[-100%] top-0 p-10 ease-in duration-500'
-          }
-        >
+              : 'fixed left-[-100%] top-0 p-10 ease-in duration-500'}>
           <div>
             <div className='flex w-full items-center justify-between'>
               <Link href='/'>
@@ -138,7 +132,7 @@ const Navbar = () => {
               </p>
             </div>
           </div>
-          <div className='py-4 flex flex-col'>
+          <div className='py-4 flex flex-col justify-between'>
             <ul className='uppercase'>
               <Link href='/'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
@@ -171,22 +165,21 @@ const Navbar = () => {
                 </li>
               </Link>
             </ul>
-            <div className='pt-40'>
-              <p className='uppercase tracking-widest text-[#5651e5]'>
-                Let&#39;s Connect
-              </p>
+            <div >
+
+              <p className='uppercase tracking-widest text-[#5651e5] pt-10'>Let&#39;s Connect</p>
+
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
-                <a
-                  href='https://www.linkedin.com/in/clint-briley-50056920a/'
+                <Link
+                  href='https://www.linkedin.com/in/iman-kamrava/'
                   target='_blank'
-                  rel='noreferrer'
-                >
+                  rel='noreferrer'>
                   <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                     <FaLinkedinIn />
                   </div>
-                </a>
+                </Link>
                 <a
-                  href='https://github.com/fireclint'
+                  href='https://github.com/Ikamrava'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -211,6 +204,7 @@ const Navbar = () => {
                   </div>
                 </Link>
               </div>
+
             </div>
           </div>
         </div>
