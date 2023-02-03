@@ -159,20 +159,22 @@ const Navbar = () => {
                 <Link
                   href='https://www.linkedin.com/in/iman-kamrava/'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noreferrer'
+                  onClick={() => setNav(!nav)}>
                   <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                     <FaLinkedinIn />
                   </div>
                 </Link>
-                <a
+                <Link
                   href='https://github.com/Ikamrava'
                   target='_blank'
                   rel='noreferrer'
+                  onClick={() => setNav(!nav)}
                 >
                   <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
                     <FaGithub />
                   </div>
-                </a>
+                </Link>
                 <Link href='/#contact'>
                   <div
                     onClick={() => setNav(!nav)}

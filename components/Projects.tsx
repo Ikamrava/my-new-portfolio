@@ -12,6 +12,7 @@ import weather from "../public/assets/projects/weather.png"
 
 
 
+
 export const Projects = () => {
     
   return (
