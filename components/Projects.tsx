@@ -21,7 +21,7 @@ export const Projects = () => {
             <div className=' grid md:grid-cols-2 gap-8'>
                 <ProjectItem imagelink={hulu} title="Raect" link="/" basedon="React"/>
                 <ProjectItem imagelink={news} title="Raect" link="/" basedon="React" />
-                <ProjectItem imagelink={book} title="Raect" link="/" basedon="React"/>
+                <ProjectItem imagelink={book} title="Raect" link="https://top-seller-books.ikamdev.co.uk/" basedon="React"/>
                 <ProjectItem imagelink={quiez} title="Raect" link="/" basedon="React"/>
                 <ProjectItem imagelink={pass} title="Raect" link="/" basedon="Chrome Extension"/>
             </div>
