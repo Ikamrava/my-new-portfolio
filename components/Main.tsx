@@ -44,7 +44,7 @@ export const Main = () => {
                     <BsFillPersonLinesFill size={30}  />
                   </div>
                 </Link>
-              </div>
+          </div>
     </div>
     </div>
   )
