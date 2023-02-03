@@ -3,7 +3,7 @@ import React from 'react'
 
 export const About = () => {
   return (
-    <div className='md:h-screen p-2 flex items-center py-16 pt-24'>
+    <div id = "about" className='md:h-screen p-2 flex items-center py-16 pt-24'>
         <div className=' max-w-[1240px] m-auto md:grid grid-cols-3 gap-8'>
             <div className=' col-span-2'>
               <p className=' uppercase text-xl tracking-wider text-[#5E17EB]'>About</p>
