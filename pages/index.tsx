@@ -26,6 +26,7 @@ export default function Home({data}:Props) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="">
+        <Navbar/>
         <Main/>
         <About/>
         <Skills/>

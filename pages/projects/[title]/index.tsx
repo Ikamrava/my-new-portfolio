@@ -4,6 +4,7 @@ import { RiRadioButtonFill } from 'react-icons/ri';
 import Image from 'next/image'
 import Link from 'next/link';
 import { nanoid } from 'nanoid'
+import Navbar from '@/components/Navbar';
 
 type Props = {
    title: string,
@@ -22,7 +23,10 @@ function index({title,image,titletec,overview,weblink,gitlink,tecnos}:Props) {
 
  
   return (
+    <>
+    
    <div className='w-full'>
+    <Navbar/>
       <div className='w-screen h-[50vh] relative'>
         <div className='absolute top-0 left-0 w-full h-[50vh] bg-black/70 z-10' />
         <img className='absolute z-1 object-cover h-[50vh] w-full' src={image} alt='Background Image'/>
@@ -74,6 +78,7 @@ function index({title,image,titletec,overview,weblink,gitlink,tecnos}:Props) {
         </Link>
       </div>
     </div>
+    </>
   )
 }
 
