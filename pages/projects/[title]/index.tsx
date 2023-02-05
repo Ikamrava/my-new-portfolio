@@ -1,7 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React from 'react'
 import { RiRadioButtonFill } from 'react-icons/ri';
-import Image from 'next/image'
 import Link from 'next/link';
 import { nanoid } from 'nanoid'
 import Navbar from '@/components/Navbar';
