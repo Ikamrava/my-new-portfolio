@@ -3,79 +3,89 @@
         {
             "title": "Hulu-Video",
             "image": "/assets/projects/hulu.png",
-            "titletec": "NextJs/Tailwind/TypeScript",
-            "overview": "This app was built using NextJs and using",
-            "weblink": "",
-            "gitlink": "",
+            "titletec": "NextJs / TypeScript",
+            "overview": "I built this application in Next JS and is hosted on GitHub pages.This application is pulling movie data from an the TMDB movie API and displaying different categories.It is using serverside rendering , dynamic pages and lazzy loading.It has the option to search any movies and its information",
+            "weblink": "https://hulu-video.ikamdev.co.uk/",
+            "gitlink": "https://github.com/Ikamrava/hulu-video-next.js",
             "tecnos": [
-                "React",
                 "NextJs",
-                "TypeScript"
+                "React",
+                "API TMDB",
+                "Tailwind",
+                "JavaScript"
             ]
         },
         {
             "title": "Latest-News",
             "image": "/assets/projects/news.png",
-            "titletec": "NextJs/Tailwind/TypeScript",
-            "overview": "This app was built using NextJs and using",
-            "weblink": "",
-            "gitlink": "",
+            "titletec": "NextJs / TypeScript",
+            "overview": "I built this application in Next JS 13 and TypeScripts and is hosted on GitHub pages.This application is pulling news data from an the Mediastack API, use StepZen and Qraphl query .It is using serverside rendering , dynamic pages and lazzy loading.It has the option to search any new and its information",
+            "weblink": "https://latest-news.ikamdev.co.uk/",
+            "gitlink": "https://github.com/Ikamrava/latest_news",
             "tecnos": [
+                "Next JS",
                 "React",
-                "NextJs",
-                "TypeScript"
+                "TypeScript",
+                "API Mediastack",
+                "Tailwind"
             ]
         },
         {
             "title": "Top-Seller-Books",
             "image": "/assets/projects/book.png",
-            "titletec": "NextJs/Tailwind/TypeScript",
-            "overview": "This app was built using NextJs and using",
-            "weblink": "",
-            "gitlink": "",
+            "titletec": "Ract / JavaScript",
+            "overview": "I built this application in React and is hosted on GitHub pages.This application is pulling best sellers book data from an the New Yourk Times API",
+            "weblink": "https://top-seller-books.ikamdev.co.uk/",
+            "gitlink": "https://github.com/Ikamrava/books-react",
             "tecnos": [
                 "React",
-                "NextJs",
-                "TypeScript"
-            ]
-        },
-        {
-            "title": "Quiezical",
-            "image": "/assets/projects/quiez.png",
-            "titletec": "NextJs/Tailwind/TypeScript",
-            "overview": "This app was built using NextJs and using",
-            "weblink": "",
-            "gitlink": "",
-            "tecnos": [
-                "React",
-                "NextJs",
-                "TypeScript"
+                "JavaScript",
+                "API New York Times",
+                "HTML",
+                "CSS"
             ]
         },
         {
             "title": "Weather-Api",
             "image": "/assets/projects/weather.png",
-            "titletec": "NextJs/Tailwind/TypeScript",
-            "overview": "This app was built using NextJs and using",
-            "weblink": "",
-            "gitlink": "",
+            "titletec": "NextJs / TypeScript",
+            "overview": "I built this application in React, TypeScript and is hosted on GitHub pages.This application is pulling weather information base on user input from an the OpenWeather API",
+            "weblink": "https://weather-app.ikamdev.co.uk/",
+            "gitlink": "https://github.com/Ikamrava/weather-app-typescript",
             "tecnos": [
                 "React",
-                "NextJs",
-                "TypeScript"
+                "TypeScript",
+                "API Open Weather",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "title": "Quiezical",
+            "image": "/assets/projects/quiez.png",
+            "titletec": "ReactJs / JavaScript",
+            "overview": "I built this application in React and is hosted on GitHub pages.This application is pulling random questions from an the Trivia API",
+            "weblink": "http://quizzical-app.ikamdev.co.uk/",
+            "gitlink": "https://github.com/Ikamrava/Trivia-API-React",
+            "tecnos": [
+                "React",
+                "JavaScript",
+                "API Trivia",
+                "HTML",
+                "CSS"
             ]
         },
         {
             "title": "Password-Generator",
             "image": "/assets/projects/pass.png",
-            "titletec": "NextJs/Tailwind/TypeScript",
-            "overview": "This app was built using NextJs and using",
-            "weblink": "",
-            "gitlink": "",
+            "titletec": "JavaScript / HTML / CSS",
+            "overview": "I built this chrome extension in JavaScript and is hosted on GitHub pages.This application is generating 3 random words as a password based on your reference",
+            "weblink": "https://chrome.google.com/webstore/detail/password-generator/oaoomholmcdkngngnfnkiogolifgddca",
+            "gitlink": "https://github.com/Ikamrava/Password-Gen",
             "tecnos": [
-                "React",
-                "NextJs",
-                "TypeScript"
+                "JavaScript",
+                "HTML",
+                "CSS"
             ]
         }
     ]
