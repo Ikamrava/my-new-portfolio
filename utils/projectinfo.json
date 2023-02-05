@@ -1,0 +1,82 @@
+{
+    "projectsData": [
+        {
+            "title": "Hulu-Video",
+            "image": "/assets/projects/hulu.png",
+            "titletec": "NextJs/Tailwind/TypeScript",
+            "overview": "This app was built using NextJs and using",
+            "weblink": "",
+            "gitlink": "",
+            "tecnos": [
+                "React",
+                "NextJs",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Latest-News",
+            "image": "/assets/projects/news.png",
+            "titletec": "NextJs/Tailwind/TypeScript",
+            "overview": "This app was built using NextJs and using",
+            "weblink": "",
+            "gitlink": "",
+            "tecnos": [
+                "React",
+                "NextJs",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Top-Seller-Books",
+            "image": "/assets/projects/book.png",
+            "titletec": "NextJs/Tailwind/TypeScript",
+            "overview": "This app was built using NextJs and using",
+            "weblink": "",
+            "gitlink": "",
+            "tecnos": [
+                "React",
+                "NextJs",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Quiezical",
+            "image": "/assets/projects/quiez.png",
+            "titletec": "NextJs/Tailwind/TypeScript",
+            "overview": "This app was built using NextJs and using",
+            "weblink": "",
+            "gitlink": "",
+            "tecnos": [
+                "React",
+                "NextJs",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Weather-Api",
+            "image": "/assets/projects/weather.png",
+            "titletec": "NextJs/Tailwind/TypeScript",
+            "overview": "This app was built using NextJs and using",
+            "weblink": "",
+            "gitlink": "",
+            "tecnos": [
+                "React",
+                "NextJs",
+                "TypeScript"
+            ]
+        },
+        {
+            "title": "Password-Generator",
+            "image": "/assets/projects/pass.png",
+            "titletec": "NextJs/Tailwind/TypeScript",
+            "overview": "This app was built using NextJs and using",
+            "weblink": "",
+            "gitlink": "",
+            "tecnos": [
+                "React",
+                "NextJs",
+                "TypeScript"
+            ]
+        }
+    ]
+}

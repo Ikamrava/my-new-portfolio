@@ -7,11 +7,16 @@ import { About } from '@/components/About'
 import { Skills } from '@/components/Skills'
 import { Projects } from '@/components/Projects'
 import Contact from '@/components/Contact'
+import { DataType } from '@/utils/type'
+
+type Props ={
+  data:DataType
+}
 
 
-const inter = Inter({ subsets: ['latin'] })
-
-export default function Home() {
+export default function Home({data}:Props) {
+  
+ 
   return (
     <>
       <Head>
@@ -21,13 +26,24 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="">
-        
         <Main/>
         <About/>
         <Skills/>
-        <Projects/>
+        <Projects data={data}/>
         <Contact/>
       </main>
     </>
   )
+}
+
+
+export async function getServerSideProps() {
+  const  {projectsData}  = await import('utils/projectinfo.json');
+
+
+  return {
+    props: {
+      data: projectsData,
+    },
+  };
 }
