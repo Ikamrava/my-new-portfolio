@@ -46,6 +46,22 @@
             ]
         },
         {
+            "title": "Linkedin Clone",
+            "image": "/assets/projects/linkedin.png",
+            "titletec": "Ract / JavaScript",
+            "overview": "I built this application in React and is hosted on GitHub pages.This application is line of a replica of Linkedin page that I wanted to try Firebase and redux",
+            "weblink": "https://linkedin.ikamdev.co.uk/",
+            "gitlink": "https://github.com/Ikamrava/linkedin-clone",
+            "tecnos": [
+                "FireBase",
+                "Redux",
+                "React",
+                "JavaScript",
+                "HTML",
+                "Tailwind"
+            ]
+        },
+        {
             "title": "Weather-Api",
             "image": "/assets/projects/weather.png",
             "titletec": "NextJs / TypeScript",
