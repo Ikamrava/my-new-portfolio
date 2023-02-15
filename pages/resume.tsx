@@ -53,7 +53,11 @@ function resume() {
           </div>
         </div>
         <p>
-     I have a lot of IT industry experience and have worked for major corporations. Since I have some coding experience, I'm changing my area of specialization to front-end web development. In order to accomplish my objectives, I have joined Code Your Future as a student and On the other hand, I finished a front-end course from Scrimba last year and was awarded a certificate for it. I have a really quick memory and I enjoy learning new things.
+          I am self-driven and nimble in my learning, and I am looking for an entry-level position as a
+front-end developer. I have a keen eye for detail and problem-solving, and I recently earned
+the Frontend Developer Career Path Certification from Scrimba. Since I am a part of the
+CYF community, I can vouch for my efforts to make a difference in the lives of others.
+     
         </p>
 
         {/* Skills */}
