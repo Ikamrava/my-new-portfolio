@@ -80,6 +80,25 @@ Please communicate with me if I may be of help or the other way around, as I am 
         <h5 className='text-center underline text-[18px] py-4'>
           Professional Experience
         </h5>
+
+        <div className='py-6'>
+          <p className='italic'>
+            <span className='font-bold italic'>
+            Self-employed
+            </span>
+            <span className='px-2'>|</span>London, UK
+          </p>
+          <p className='py-1 italic'>Mar 2022 - Present</p>
+          <p className='list-disc list-outside px-7 py-1 leading-relaxed'></p>
+            <p>
+              Studying the Full Stack developer position while working on independent projects.
+
+            </p>
+            <p className=' font-bold'>Skills</p>
+            <p><span className=' font-bold'>MySQL · Git · Problem Solving · Communication · HTML · Attention to Detail · Content             Management · HTML5 · Cascading Style Sheets (CSS) · React.js · JavaScript · Node.js · Python</span></p>
+                      
+          
+        </div>
         {/* Experience */}
         <div className='py-6'>
           <p className='italic'>
@@ -88,7 +107,7 @@ Please communicate with me if I may be of help or the other way around, as I am 
             </span>
             <span className='px-2'>|</span>London, UK
           </p>
-          <p className='py-1 italic'>Education Volunteer(Sep 2022 - Current)</p>
+          <p className='py-1 italic'>Volunteer(Sep 2022 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Assisting students with the <span className=' font-bold'>React, Node JS, TypeScript, JavaScript, CSS, and HTML</span> assignments.
@@ -105,41 +124,7 @@ Please communicate with me if I may be of help or the other way around, as I am 
         </div>
 
 
-        {/* Personal Experience */}
-        <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
-              Code Your Future
-            </span>
-            <span className='px-2'>|</span>London, UK
-          </p>
-          <p className='py-1 italic'>Trainee (Mar 2022 – Sep 2022 )</p>
-          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            <li>
-              Since I was a front-end developer student learning the basics of programming and had a solid background, they asked me to join them as a volunteer and assist other students.
-
-            </li>
-            <li>
-              The course covers the following subjects: 
-            </li>
-
-            <li className=' font-bold'>
-                React
-                JavaScript
-                HTML
-                VS Code
-                CSS
-                Rest API
-                Database
-                Typescript
-                Github
-                Netlify
-
-            </li>
-          </ul>
-        </div>
-
-        {/*  */}
+       
         <h5 className='text-center underline text-[18px] py-4'>
           Other Professional Experience
         </h5>
