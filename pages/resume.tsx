@@ -76,7 +76,7 @@ Please communicate with me if I may be of help or the other way around, as I am 
             <span className='px-2'>|</span> RESTAPI
              <span className='px-2'>|</span> MySql
               <span className='px-2'>|</span> C#
-              <span className='px-2'>|</span> Pyton
+              <span className='px-2'>|</span> Python
           </p>
         </div>
 
