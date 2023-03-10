@@ -53,10 +53,10 @@ function resume() {
           </div>
         </div>
         <p>
-          I am self-driven and nimble in my learning, and I am looking for an entry-level position as a
-front-end developer. I have a keen eye for detail and problem-solving, and I recently earned
-the Frontend Developer Career Path Certification from Scrimba. Since I am a part of the
-CYF community, I can vouch for my efforts to make a difference in the lives of others.
+          As a software engineer, I have experience with React, Node JS, TypeScript, Firebase, Next JS, Agile and waterfall development, Figma, and more.
+I have some Python expertise, and I'm now learning C# and MySql.
+I've created many applications in several languages while working in the IT sector.
+Please communicate with me if I may be of help or the other way around, as I am constantly looking to learn and develop individually.
      
         </p>
 
