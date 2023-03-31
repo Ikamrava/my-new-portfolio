@@ -1,5 +1,22 @@
 {
     "projectsData": [
+
+        {
+            "title": "Blogger",
+            "image": "/assets/projects/blogger.png",
+            "titletec": "React / Nodejs",
+            "overview": "I built this application in React as the front-end and Nodejs with Mysql as the back-end and is hosted on GitHub pages.The app have the functenality to register a new user and add posts like a weblog",
+            "weblink": "https://blogger.ikamdev.co.uk/",
+            "gitlink": "https://github.com/Ikamrava/Blogger-server-NodeJs",
+            "tecnos": [
+               
+                "React",
+                "Nodejs",
+                "MySql",
+                "JavaScript",
+                "Taulwind"
+            ]
+        },
         {
             "title": "Hulu-Video",
             "image": "/assets/projects/hulu.png",
