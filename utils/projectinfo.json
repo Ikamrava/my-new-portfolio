@@ -54,7 +54,7 @@
             "image": "/assets/projects/book.png",
             "titletec": "Ract / JavaScript",
             "overview": "I built this application in React and is hosted on GitHub pages.This application is pulling best sellers book data from an the New Yourk Times API",
-            "weblink": "https://top-seller-books.ikamdev.co.uk/",
+            "weblink": "https://books-react-lime.vercel.app/",
             "gitlink": "https://github.com/Ikamrava/books-react",
             "tecnos": [
                 "React",
