@@ -84,24 +84,7 @@ Please communicate with me if I may be of help or the other way around, as I am 
           Professional Experience
         </h5>
 
-        <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
-            Self-employed
-            </span>
-            <span className='px-2'>|</span>London, UK
-          </p>
-          <p className='py-1 italic'>Mar 2022 - Present</p>
-          <p className='list-disc list-outside px-7 py-1 leading-relaxed'></p>
-            <p>
-              Studying the Full Stack developer position while working on independent projects.
-
-            </p>
-            <p className=' font-bold'>Skills</p>
-            <p><span className=' font-bold'>MySQL · Git · Problem Solving · Communication · HTML · Attention to Detail · Content             Management · HTML5 · Cascading Style Sheets (CSS) · React.js · JavaScript · Node.js · Python</span></p>
-                      
-          
-        </div>
+       
         {/* Experience */}
         <div className='py-6'>
           <p className='italic'>
