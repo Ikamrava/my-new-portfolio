@@ -70,7 +70,7 @@
             "image": "/assets/projects/weather.png",
             "titletec": "NextJs / TypeScript",
             "overview": "I built this application in React, TypeScript and is hosted on GitHub pages.This application is pulling weather information base on user input from an the OpenWeather API",
-            "weblink": "https://weather-app.ikamdev.co.uk/",
+            "weblink": "https://jovial-bavarois-a5d7d8.netlify.app/",
             "gitlink": "https://github.com/Ikamrava/weather-app-typescript",
             "tecnos": [
                 "React",
@@ -85,7 +85,7 @@
             "image": "/assets/projects/quiez.png",
             "titletec": "ReactJs / JavaScript",
             "overview": "I built this application in React and is hosted on GitHub pages.This application is pulling random questions from an the Trivia API",
-            "weblink": "http://quizzical-app.ikamdev.co.uk/",
+            "weblink": "https://incredible-lily-505ea1.netlify.app/",
             "gitlink": "https://github.com/Ikamrava/Trivia-API-React",
             "tecnos": [
                 "React",
