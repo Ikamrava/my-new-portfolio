@@ -9,7 +9,7 @@
             "image": "/assets/projects/car.png",
             "titletec": "NextJs / TypeScript",
             "overview": "Car rental Platform developed in Next JS 13 with TypeScript, Gething info from 2 differents API, responsive design using Tailwind.",
-            "weblink": "https://shophouse.ikamdev.co.uk/",
+            "weblink": "https://car-rental-ochre-kappa.vercel.app/",
             "gitlink": "https://github.com/Ikamrava/car-rental",
             "tecnos": [
                 "NextJs",
@@ -24,7 +24,7 @@
             "image": "/assets/projects/shop.png",
             "titletec": "NextJs / JavaScript",
             "overview": "This is my first e-commerce app, It has been done in NextJS, Using Tailwind. I could apply Stripe Checkout for payment for the first time, The website has a separate Admin website where the admin can add and remove products, used AWS S£ bucket for photo storage ",
-            "weblink": "https://car-rental-n2o0n9yw2-ikamrava.vercel.app/",
+            "weblink": "https://shophouse.ikamdev.co.uk/",
             "gitlink": "https://github.com/Ikamrava/ecom-full",
             "tecnos": [
                 "NextJs",
