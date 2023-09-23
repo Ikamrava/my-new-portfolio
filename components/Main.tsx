@@ -11,7 +11,7 @@ export const Main = () => {
         <div>
            <p className=' uppercase text-sm tracking-widest text-gray-600 '> Lets Do It</p>
            <h1 className=' mt-5'>Hi, I'm <span className=' text-[#5E17EB]'>Iman</span></h1>
-           <h1 className=' mt-5'>A Front-End Web Developer</h1>
+           <h1 className=' mt-5'>A Full-Srack Web Developer</h1>
            <p className=' mt-5 text-1xl max-w-lg text-center mx-auto' >My interests are in Front End Engineering, and I love to create beautiful and performant products with delightful user experiences.</p>
         </div>
         <div className='flex items-center justify-around my-4 w-full sm:w-[50%] pt-10' >
