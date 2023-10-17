@@ -53,7 +53,7 @@ function resume() {
           </div>
         </div>
         <p>
-          As a software engineer, I have experience with React, Node JS, TypeScript, Firebase, Next JS, Agile and waterfall development, Figma, and more.
+          As a Full-Stack Developer, I have experience with React, Node JS, TypeScript, Firebase, Next JS, Agile and waterfall development, Figma, and more.
 I have some Python expertise, and I'm now learning C# and MySql.
 I've created many applications in several languages while working in the IT sector.
 Please communicate with me if I may be of help or the other way around, as I am constantly looking to learn and develop individually.
