@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Image from 'next/image';
 import React from 'react'
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
-import certificate from "../public/assets/skills/scrimba.png"
+import certificate from "../public/assets/skills/amazon.png"
 
 function resume() {
   return (
