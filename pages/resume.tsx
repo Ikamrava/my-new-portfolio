@@ -93,7 +93,7 @@ Please communicate with me if I may be of help or the other way around, as I am 
             </span>
             <span className='px-2'>|</span>London, UK
           </p>
-          <p className='py-1 italic'>Volunteer(Sep 2022 - Current)</p>
+          <p className='py-1 italic'>Full-Stack Developer (Mar 2022 - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Assisting students with the <span className=' font-bold'>React, Node JS, TypeScript, JavaScript, CSS, and HTML</span> assignments.
@@ -117,23 +117,6 @@ Please communicate with me if I may be of help or the other way around, as I am 
       
         {/* Experience */}
         <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold'>London, UK</span>
-            <span className='px-2'>|</span>London, UK
-          </p>
-          <p className='py-1 italic'>IT Support Technician (Oct 2019 - Present)</p>
-          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            <li>
-              Answering inbound calls from clients to fix or maintain their systems and tickets on our CRM system
-            </li>
-            <li>
-              Handling hardware problems for laptops, tablets, printers, and cellphones (1200 users globally) Calling clients to help resolve their technical needs
-            </li>
-            <li>
-              Resolving employees' problems in a clear, courteous, and straightforward manner. 
-            </li>
-            
-          </ul>
           <p className='py-5 italic font-bold '>Certificates</p>
             <Image src={certificate} alt="certificate" />
         </div>
